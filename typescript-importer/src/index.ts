@@ -4,4 +4,4 @@ import { Xmen } from "./classes/xmen.class"; //importar la clase que esta en otr
 
 const wolverine = new Xmen("Logan", "Wolverine");
 //console.log(wolverine);
-wolverine.imprimir(); //Reconoce el método
+// wolverine.imprimir(); //Reconoce el método
