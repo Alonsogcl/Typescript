@@ -1,5 +1,4 @@
 (() => {
-  //Comprobación de usuario nuevamente
   //La primera letra de la clase siempre tiene que ir en mayuscula
   // class Avenger {
   /*Para no tener que inicializar se crea un constructor
